@@ -1,0 +1,10 @@
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\bin\Debug\Project 3 - Section 3.exe.config
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\bin\Debug\Project 3 - Section 3.exe
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\bin\Debug\Project 3 - Section 3.pdb
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project 3 - Section 3.csprojResolveAssemblyReference.cache
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project_3___Section_3.P3S3Form.resources
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project_3___Section_3.Properties.Resources.resources
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project 3 - Section 3.csproj.GenerateResource.Cache
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project 3 - Section 3.csproj.CoreCompileInputs.cache
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project 3 - Section 3.exe
+C:\Users\wiiqw\source\repos\Project 3 - Section 3\Project 3 - Section 3\obj\Debug\Project 3 - Section 3.pdb

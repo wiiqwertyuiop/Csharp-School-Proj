@@ -1,0 +1,10 @@
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\bin\Debug\Project 3 - Section 1.exe.config
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\bin\Debug\Project 3 - Section 1.exe
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\bin\Debug\Project 3 - Section 1.pdb
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project 3 - Section 1.csprojResolveAssemblyReference.cache
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project_3___Section_1.Properties.Resources.resources
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project 3 - Section 1.csproj.GenerateResource.Cache
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project 3 - Section 1.csproj.CoreCompileInputs.cache
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project 3 - Section 1.exe
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project 3 - Section 1.pdb
+C:\Users\wiiqw\source\repos\Project 3 - Section 1\Project 3 - Section 1\obj\Debug\Project_3___Section_1.P3S1DataFileTasksForm.resources

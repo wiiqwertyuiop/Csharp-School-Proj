@@ -1,0 +1,9 @@
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\bin\Release\chap05_rostergenerator.exe.config
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\bin\Release\chap05_rostergenerator.exe
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\bin\Release\chap05_rostergenerator.pdb
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\obj\Release\RosterGenerator.StartupForm.resources
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\obj\Release\chap05_rostergeneratorr.Properties.Resources.resources
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\obj\Release\RosterGenerator.csproj.GenerateResource.Cache
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\obj\Release\RosterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\obj\Release\chap05_rostergenerator.exe
+C:\Users\wiiqw\source\repos\RosterGenerator\RosterGenerator\obj\Release\chap05_rostergenerator.pdb

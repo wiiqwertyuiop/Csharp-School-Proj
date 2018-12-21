@@ -1,0 +1,9 @@
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\bin\Release\Project 2 - Section 3.exe.config
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\bin\Release\Project 2 - Section 3.exe
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\bin\Release\Project 2 - Section 3.pdb
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\obj\Release\Project_2___Section_3.TTTForm.resources
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\obj\Release\Project_2___Section_3.Properties.Resources.resources
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\obj\Release\Project 2 - Section 3.csproj.GenerateResource.Cache
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\obj\Release\Project 2 - Section 3.csproj.CoreCompileInputs.cache
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\obj\Release\Project 2 - Section 3.exe
+C:\Users\wiiqw\source\repos\Project 2 - Section 3\Project 2 - Section 3\obj\Release\Project 2 - Section 3.pdb

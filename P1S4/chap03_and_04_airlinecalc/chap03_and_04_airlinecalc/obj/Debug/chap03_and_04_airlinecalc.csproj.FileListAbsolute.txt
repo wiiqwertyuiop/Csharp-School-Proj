@@ -1,0 +1,10 @@
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\bin\Debug\chap03_and_04_airlinecalc.exe.config
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\bin\Debug\chap03_and_04_airlinecalc.exe
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\bin\Debug\chap03_and_04_airlinecalc.pdb
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.csprojResolveAssemblyReference.cache
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.Properties.Resources.resources
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.csproj.GenerateResource.Cache
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.csproj.CoreCompileInputs.cache
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.exe
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.pdb
+C:\Users\wiiqw\source\repos\chap03_and_04_airlinecalc\chap03_and_04_airlinecalc\obj\Debug\chap03_and_04_airlinecalc.CISAirways.resources
